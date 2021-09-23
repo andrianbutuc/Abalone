@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/imgs">
+        <file>hexagon_2_435x465.png</file>
+    </qresource>
+</RCC>

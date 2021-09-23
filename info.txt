@@ -1,0 +1,3 @@
+Matricules membres du groupe : 54254   55349
+
+Choix de structure de projet : QtCreator
